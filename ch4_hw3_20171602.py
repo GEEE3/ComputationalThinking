@@ -8,4 +8,4 @@ key1 = "abc"
 key2 = "def"
 
 print('"abc 문자열: {} 인덱스, {} 번 존재"' .format(sample.find(key1), sample.count(key1)))
-print('"abc 문자열: {} 인덱스, {} 번 존재"' .format(sample.find(key2), sample.count(key2)))
+print('"def 문자열: {} 인덱스, {} 번 존재"' .format(sample.find(key2), sample.count(key2)))
